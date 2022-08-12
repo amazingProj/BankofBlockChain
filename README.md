@@ -6,4 +6,4 @@ https://github.com/amazingProj/BlockchainBank
 
 node js server side 
 
-https://github.com/amazingProj/BlockchainBank
+https://github.com/amazingProj/BlockChainApp
